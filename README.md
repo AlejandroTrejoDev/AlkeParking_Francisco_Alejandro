@@ -3,7 +3,7 @@ Ejercicio Integrador Swift de Alkemy Academy realizado por Francisco Tomas Nasic
 
 
 # Ejercicio 1
-**1. ¿ Por qué se define vehicles como un Set?**
+**¿ Por qué se define vehicles como un Set?**
 De esta forma se evita que haya vehículos duplicados ya que los Set evitan que se 
 agregue un dato duplicado.
 
